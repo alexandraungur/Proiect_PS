@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">FragranceShop</string>
+
+    <string name="perfume_name">My Way</string>
+    <string name="perfume_brand">GIORGIO ARMANI</string>
+    <string name="perfume_quantity">90ml</string>
+    <string name="perfume_price">550</string>
+
+    <string-array name="perfume_name_txt">
+        <item>My Way</item>
+        <item>Olympea</item>
+        <item>L\'Interdit</item>
+        <item>Joy</item>
+        <item>Si</item>
+        <item>Invictus</item>
+        <item>Sauvage</item>
+        <item>Aqua di Gio</item>
+        <item>One Million</item>
+
+    </string-array>
+
+    <string-array name="brands_name_txt">
+        <item>GIORGIO ARMANI</item>
+        <item>PACO RABANNE</item>
+        <item>GIVENCHY</item>
+        <item>DIOR</item>
+        <item>GIORGIO ARMANI</item>
+        <item>PACO RABANNE</item>
+        <item>DIOR</item>
+        <item>GIORGIO ARMANI</item>
+        <item>PACO RABANNE</item>
+    </string-array>
+
+    <string-array name="quantity_txt">
+        <item>90ml</item>
+        <item>80ml</item>
+        <item>80ml</item>
+        <item>90ml</item>
+        <item>100ml</item>
+        <item>100ml</item>
+        <item>100ml</item>
+        <item>100ml</item>
+        <item>200ml</item>
+    </string-array>
+
+    <string-array name="price_txt">
+        <item>550</item>
+        <item>550</item>
+        <item>600</item>
+        <item>530</item>
+        <item>600</item>
+        <item>500</item>
+        <item>480</item>
+        <item>650</item>
+        <item>580</item>
+    </string-array>
+
+
+
+</resources>
