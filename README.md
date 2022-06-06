@@ -64,4 +64,6 @@ Partea de frontend a aplicatiei este impartita in mai multe ferestre. La momentu
 
 Pentru fereastra de vizualizare a produselor s-a folosit RecyclerView, iar pentru aceasta s-au format clasele Product, PAdapter (Adapter pentru clasa produselor) si functia de getUserData()/setUpProducts() din MainActivity. 
 
+Legatura dintre backend si frontend este implementata in clasele MyApplication2, MyData, MyDataItem si ApiInterface unde se realizeaza operatia de "GET" pentru produse (parfumuri) pentru a fi afisate. 
+
 
